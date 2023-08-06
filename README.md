@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Spend Together](https://github.com/maitybiky/spend_together)
 
-- 🌱 I’m currently learning **C++ SQL**
+- 🌱 I’m currently learning **C++ SQL TS**
 
 - 📫 How to reach me **surajit27475@gmail.com**
 
