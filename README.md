@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surajit</h1>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitybiky&label=Profile%20views&color=0e75b6&style=flat" alt="maitybiky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maitybiky" alt="maitybiky" /></a> </p>
-
-- 🔭 I’m currently working on [Spend Together](https://github.com/maitybiky/spend_together)
-
-- 🌱 I’m currently learning **C++ SQL TS**
 
 - 📫 How to reach me **surajit27475@gmail.com**
 
