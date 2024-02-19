@@ -25,7 +25,7 @@
 <a>&nbsp;<img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="maitybiky" /></a>
 <a>&nbsp;<img height="40" width="40" align="center" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="maitybiky" /></a>
 </p>
-
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maitybiky&show_icons=true&locale=en" alt="maitybiky" /></p>
 
